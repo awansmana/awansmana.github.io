@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://awansmana.github.io/sitemap
+Sitemap: https://awansmana.github.io/app/sitemap
+Sitemap: https://awansmana.github.io/assets/sitemap
+Sitemap: https://awansmana.github.io/css/sitemap
+Sitemap: https://awansmana.github.io/includes/sitemap
+Sitemap: https://awansmana.github.io/item/sitemap
+Sitemap: https://awansmana.github.io/src/sitemap
